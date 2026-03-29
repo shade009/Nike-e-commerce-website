@@ -58,22 +58,6 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-## 📦 Build for Production
-
-```bash
-npm run build
-```
-
-The production build will be in the `dist/` folder.
-
-## 🌐 Deployment
-
-This project is optimized for deployment on **Vercel**:
-
-1. Push your code to GitHub
-2. Go to [vercel.com](https://vercel.com) → Import Git Repository
-3. Select your repo — Vercel auto-detects Vite and deploys
-
 ## 📁 Project Structure
 
 ```
