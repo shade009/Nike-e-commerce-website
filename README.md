@@ -15,22 +15,22 @@ A modern, fully animated Nike-inspired e-commerce web application built with Rea
 ## 📸 Screenshots
 
 ### Home Page
-![Home Hero](./screenshots/home-hero.png)
+![Home Hero](./home-hero.png)
 
 ### Categories
-![Categories](./screenshots/home-categories.png)
+![Categories](./home-categories.png)
 
 ### Product Catalog
-![Products](./screenshots/products.png)
+![Products](./products.png)
 
 ### Product Detail
-![Product Detail](./screenshots/product-detail.png)
+![Product Detail](./product-detail.png)
 
 ### Login
-![Login](./screenshots/login.png)
+![Login](./login.png)
 
 ### Register
-![Register](./screenshots/register.png)
+![Register](./register.png)
 
 ## 🛠️ Tech Stack
 
